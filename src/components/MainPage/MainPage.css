@@ -1,0 +1,14 @@
+.Mainpage {
+    list-style: none;
+    color: rgba(248,255,247,0.88);
+    font-weight: bold;
+    font-size: 25px;
+    padding: 20px 0;
+    margin-top: 70px;
+
+}
+
+.Mainpage li {
+    padding-bottom: 20px;
+    cursor: pointer;
+}
